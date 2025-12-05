@@ -1,0 +1,15 @@
+torch
+deepchem==2.8.1
+rdkit
+accelerate
+transformers
+tokenizers
+esm
+datasets
+scikit-learn
+bitsandbytes
+ipynbname
+jupyter
+numpy
+pandas
+matplotlib
